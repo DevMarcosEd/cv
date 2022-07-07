@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
+
+body {
+  line-height: 1.8;
+  color: #898fa1;
+  font-size: 15px;
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+i {
+  margin-right: 5px;
+}
+
+p {
+  margin: 0;
+  color: #898fa1;
+}
+
+#endereco i {
+  color: white;
+}
+
+#fone i {
+  color: white;
+}
+
+#end i {
+  color: white;
+}
+
+/************************************/
+
+.container-principal {
+  
+}
+.container {
+  width: 70%;
+}
+
+.title-color {
+  color: #11245a;
+  margin: 20px 0 20px 0;
+}
+
+.title-sm {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+a {
+  font-weight: 700;
+  transition: all 0.4s ease;
+  text-decoration: none;
+}
+
+temp, a i {
+  color: #11245a;
+}
+
+.temp a{
+  display: block;
+}
+
+img {
+  width: 100%;
+}
+
+small {
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.topo {
+  background-color: #11245a;
+  height: 100%;
+}
+.container {
+  padding: 20px;
+}
+
+#endereco {
+  display: flex;
+}
+
+#email {
+  width: 50%;
+  
+}
+
+#fone {
+  width: 50%;
+}
+
+.cursos {
+  display: flex;
+}
+
+/* DADOS PESSOAIS */
+
+.dados {
+  margin-bottom: 5px;
+}
+
+.dados-dp {
+  color: #11245a;
+  font-weight: bold;
+}
